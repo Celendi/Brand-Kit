@@ -1,4 +1,4 @@
 # Brand Kit
 
-Copyright © 2020 - 2022 Celendi
+Copyright © 2020 - 2023 Celendi
 
